@@ -1,0 +1,85 @@
+[
+  {
+    "id": 12547,
+    "last_updated": "2022-03-23T18:59:19.566234",
+    "created_at": "2022-03-23T18:39:19.566234",
+    "txn_id": "TXC00432445",
+    "kwh": 32.0,
+    "start_datetime": "2022-03-23T19:39:19.566234",
+    "end_datetime": "2022-03-23T18:59:19.566234",
+    "total_cost": 64.44,
+    "location_name": "Arihant Food Plaza Station"
+  },{
+    "id": 12547,
+    "last_updated": "2022-03-23T18:59:19.566234",
+    "created_at": "2022-03-23T18:39:19.566234",
+    "txn_id": "TXC00432445",
+    "kwh": 32.0,
+    "start_datetime": "2022-03-23T19:39:19.566234",
+    "end_datetime": "2022-03-23T18:59:19.566234",
+    "total_cost": 64.44,
+    "location_name": "Arihant Food Plaza Station"
+  },{
+    "id": 12547,
+    "last_updated": "2022-03-23T18:59:19.566234",
+    "created_at": "2022-03-23T18:39:19.566234",
+    "txn_id": "TXC00432445",
+    "kwh": 32.0,
+    "start_datetime": "2022-03-23T19:39:19.566234",
+    "end_datetime": "2022-03-23T18:59:19.566234",
+    "total_cost": 64.44,
+    "location_name": "Arihant Food Plaza Station"
+  },{
+    "id": 12547,
+    "last_updated": "2022-03-23T18:59:19.566234",
+    "created_at": "2022-03-23T18:39:19.566234",
+    "txn_id": "TXC00432445",
+    "kwh": 32.0,
+    "start_datetime": "2022-03-23T19:39:19.566234",
+    "end_datetime": "2022-03-23T18:59:19.566234",
+    "total_cost": 64.44,
+    "location_name": "Arihant Food Plaza Station"
+  },{
+    "id": 12547,
+    "last_updated": "2022-03-23T18:59:19.566234",
+    "created_at": "2022-03-23T18:39:19.566234",
+    "txn_id": "TXC00432445",
+    "kwh": 32.0,
+    "start_datetime": "2022-03-23T19:39:19.566234",
+    "end_datetime": "2022-03-23T18:59:19.566234",
+    "total_cost": 64.44,
+    "location_name": "Arihant Food Plaza Station"
+  },{
+    "id": 12547,
+    "last_updated": "2022-03-23T18:59:19.566234",
+    "created_at": "2022-03-23T18:39:19.566234",
+    "txn_id": "TXC00432445",
+    "kwh": 32.0,
+    "start_datetime": "2022-03-23T19:39:19.566234",
+    "end_datetime": "2022-03-23T18:59:19.566234",
+    "total_cost": 64.44,
+    "location_name": "Arihant Food Plaza Station"
+  },
+  {
+    "id": 12532,
+    "last_updated": "2022-02-23T18:59:19.566234",
+    "created_at": "2022-02-23T18:39:19.566234",
+    "txn_id": "TXC0043242",
+    "kwh": 36.0,
+    "start_datetime": "2022-02-23T19:39:19.566234",
+    "end_datetime": "2022-02-23T18:59:19.566234",
+    "total_cost": 54.44,
+    "location_name": "Arihant Food Plaza Station"
+  },
+  {
+    "id": 12528,
+    "last_updated": "2022-01-23T18:59:19.566234",
+    "created_at": "2022-01-23T18:39:19.566234",
+    "txn_id": "TXC00432445",
+    "kwh": 132.0,
+    "start_datetime": "2022-01-23T19:39:19.566234",
+    "end_datetime": "2022-01-23T18:59:19.566234",
+    "total_cost": 164.44,
+    "location_name": "Arihant Food Plaza Station"
+  }
+]
